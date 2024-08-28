@@ -16,3 +16,5 @@ A Flutter project utilizing the Flame engine to create a 2D survival game.
 - Dynamic Terrain: Develop various terrains and obstacles to enhance gameplay challenges.
 
 ## Have Fun Playing ^^
+
+- Game-Deployed at <https://fwoodmann.github.io/zombieSurvival/>
